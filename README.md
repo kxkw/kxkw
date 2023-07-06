@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kxkw
+👋 Hi, I’m @kxkw
 
 <!---
 kxkw/kxkw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
